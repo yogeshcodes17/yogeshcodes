@@ -1,0 +1,32 @@
+:root {
+  /*--ifm-color-primary: #0094d9;*/
+  --ifm-color-primary: #02acbe;
+  --ifm-container-width-xl: 60rem;
+}
+
+.table-of-contents .table-of-contents__link--active {
+  font-weight: var(--ifm-font-weight-semibold);
+  margin-left: -16px;
+  padding-left: 12px;
+  border-left: 4px solid var(--ifm-link-color);
+}
+
+.DocSearch-Button-Key {
+  display: none !important;
+}
+
+.main-wrapper > div > div {
+  border-right: none !important;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* .container {
+  max-width: 48rem;
+} */
+
+/* .blog-post-page .container {
+  max-width: 60rem;
+} */

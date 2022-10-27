@@ -1,0 +1,19 @@
+---
+id: Home
+title: About me
+sidebar_label: Home
+hide_title: true
+slug: /
+---
+
+<br />
+<br />
+<br />
+
+Hey, I’m Yogesh. I’m a software engineer based in India!.
+
+I’m currently exploring more on real-time collaboration and rich text editing. Find me on [GitHub](https://github.com/Yogeshkumar17), [Twitter](https://twitter.com/karthikcodes6).
+
+I've been building web apps using Javascript, Typescript, HTML, CSS, Angular, JAVA, SpringBoot, Firebase, Firestore, Wordpress. 
+
+I'm interested on UX design, design systems, mono repo architecture, building composable/scalable components and building component libraries. 
