@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Yogesh Codes</ShortName>
+  <Description>Search Yogesh Codes</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://yogeshcodes17.github.i0/yogeshcodes/https://lh5.googleusercontent.com/AXJrR7nMmY2B9FEaEKAmOmAYhAnxkqwZYbEbS-Rr2UL09bCpeY2XC79sDVt1UxPqkNloM1zfP20NuMJkunv5=w2782-h1592-rw</Image>
+  <Url type="text/html" method="get" template="https://yogeshcodes17.github.i0/yogeshcodes/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://yogeshcodes17.github.i0/yogeshcodes/opensearch.xml" />
+  <moz:SearchForm>https://yogeshcodes17.github.i0/yogeshcodes/</moz:SearchForm>
+</OpenSearchDescription>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki_docusaurus=self.webpackChunkwiki_docusaurus||[]).push([[4558],{2724:s=>{s.exports=JSON.parse('{"allTagsPath":"/yogeshcodes/blog/tags","slug":"/yogeshcodes/blog/tags/best-practices","name":"best-practices","count":1,"permalink":"/yogeshcodes/blog/tags/best-practices"}')}}]);

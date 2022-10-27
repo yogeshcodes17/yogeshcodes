@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki_docusaurus=self.webpackChunkwiki_docusaurus||[]).push([[9553],{9751:s=>{s.exports=JSON.parse('{"allTagsPath":"/yogeshcodes/blog/tags","slug":"/yogeshcodes/blog/tags/solid","name":"solid","count":1,"permalink":"/yogeshcodes/blog/tags/solid"}')}}]);

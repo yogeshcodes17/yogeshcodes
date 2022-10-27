@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki_docusaurus=self.webpackChunkwiki_docusaurus||[]).push([[7082],{9857:e=>{e.exports=JSON.parse('{"permalink":"/yogeshcodes/blog","page":1,"postsPerPage":8,"totalPages":1,"totalCount":5,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

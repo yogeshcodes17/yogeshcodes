@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki_docusaurus=self.webpackChunkwiki_docusaurus||[]).push([[8719],{8488:s=>{s.exports=JSON.parse('{"allTagsPath":"/yogeshcodes/blog/tags","slug":"/yogeshcodes/blog/tags/algorithms","name":"algorithms","count":2,"permalink":"/yogeshcodes/blog/tags/algorithms"}')}}]);
