@@ -4,7 +4,7 @@ const katex = require('rehype-katex');
 module.exports = {
   title: "Yogesh Codes",
   tagline: "^_^",
-  url: "https://yogeshcodes17.github.i0",
+  url: "https://yogeshcodes17.github.io",
   baseUrl: "/yogeshcodes/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
@@ -85,12 +85,12 @@ module.exports = {
           position: "right",
         },
         {
-          href: "https://github.com/karthikcodes6/",
+          href: "https://github.com/yogeshcodes17/",
           label: "GitHub",
           position: "right",
         },
         {
-          href: "https://www.getrevue.co/profile/karthikcodes6",
+          href: "https://www.linkedin.com/in/yogeshcodes/",
           label: "Subscribe",
           position: "right",
         },
