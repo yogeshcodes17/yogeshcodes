@@ -91,7 +91,7 @@ module.exports = {
         },
         {
           href: "https://www.linkedin.com/in/yogeshcodes/",
-          label: "Subscribe",
+          label: "Linked In",
           position: "right",
         },
       ],
