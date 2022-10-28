@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Yogesh Codes Blog</title>
-        <link>https://yogeshcodes17.github.i0/yogeshcodes/blog</link>
+        <link>https://yogeshcodes17.github.io/yogeshcodes/blog</link>
         <description>Yogesh Codes Blog</description>
         <lastBuildDate>Wed, 20 Jul 2022 12:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Analyzing the performance of Javascript Methods]]></title>
-            <link>https://yogeshcodes17.github.i0/yogeshcodes/blog/performance-analyze-javascript-methods</link>
+            <link>https://yogeshcodes17.github.io/yogeshcodes/blog/performance-analyze-javascript-methods</link>
             <guid>/performance-analyze-javascript-methods</guid>
             <pubDate>Wed, 20 Jul 2022 12:48:36 GMT</pubDate>
             <description><![CDATA[Let's discuss the performance of Javascript built-in methods.]]></description>
@@ -21,7 +21,7 @@ forEach/map/filter/reduce/etc. -   O(N)</p><blockquote><p>Inserting at the begin
         </item>
         <item>
             <title><![CDATA[Best Problem-Solving Approaches]]></title>
-            <link>https://yogeshcodes17.github.i0/yogeshcodes/blog/problem-solving-approaches</link>
+            <link>https://yogeshcodes17.github.io/yogeshcodes/blog/problem-solving-approaches</link>
             <guid>/problem-solving-approaches</guid>
             <pubDate>Wed, 20 Jul 2022 12:48:36 GMT</pubDate>
             <description><![CDATA[Hello developers,]]></description>
@@ -31,7 +31,7 @@ Checklist for refactoring the code:</p><ul><li>Can you check the result?</li><li
         </item>
         <item>
             <title><![CDATA[Problem Solving Patterns]]></title>
-            <link>https://yogeshcodes17.github.i0/yogeshcodes/blog/problem-solving-patterns</link>
+            <link>https://yogeshcodes17.github.io/yogeshcodes/blog/problem-solving-patterns</link>
             <guid>/problem-solving-patterns</guid>
             <pubDate>Wed, 20 Jul 2022 12:48:36 GMT</pubDate>
             <description><![CDATA[When talking about the patterns, there will not the best problem-solving patterns it does not exist. Instead, look at all the patterns and choose whichever is best.]]></description>
@@ -154,7 +154,7 @@ maxSubarraySum([],4) // null</p><h3>Standard Solution</h3><pre><code class="lang
         </item>
         <item>
             <title><![CDATA[Recursion in daily programming!]]></title>
-            <link>https://yogeshcodes17.github.i0/yogeshcodes/blog/recursion-daily-practicing</link>
+            <link>https://yogeshcodes17.github.io/yogeshcodes/blog/recursion-daily-practicing</link>
             <guid>/recursion-daily-practicing</guid>
             <pubDate>Wed, 20 Jul 2022 12:48:36 GMT</pubDate>
             <description><![CDATA[We may use recursion in daily programming without knowing.]]></description>
@@ -252,7 +252,7 @@ calculateFactorial(5);
         </item>
         <item>
             <title><![CDATA[Solid Principles with React]]></title>
-            <link>https://yogeshcodes17.github.i0/yogeshcodes/blog/solid-principles-react</link>
+            <link>https://yogeshcodes17.github.io/yogeshcodes/blog/solid-principles-react</link>
             <guid>/solid-principles-react</guid>
             <pubDate>Wed, 20 Jul 2022 12:48:36 GMT</pubDate>
             <description><![CDATA[SOLID is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin (also known as Uncle Bob).]]></description>
