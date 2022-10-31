@@ -12,7 +12,7 @@ slug: /
 
 Hey, I’m Yogesh. I’m a software engineer based in India!.
 
-I’m currently exploring more on real-time collaboration and rich text editing. Find me on [GitHub](https://github.com/Yogeshkumar17), [Twitter](https://twitter.com/karthikcodes6).
+I’m currently exploring more on real-time collaboration and rich text editing. Find me on [GitHub](https://github.com/yogeshcodes17).
 
 I've been building web apps using Javascript, Typescript, HTML, CSS, Angular, JAVA, SpringBoot, Firebase, Firestore, Wordpress. 
 

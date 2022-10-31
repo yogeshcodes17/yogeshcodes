@@ -1,4 +1,4 @@
----
+<!-- ---
 id: web-interview-react
 title: React
 ---
@@ -27,4 +27,4 @@ React creates a virtual DOM. When state changes in a component it firstly runs a
 - You can use React with any framework you wish as it is only a view layer.
 
 </p>
-</details>
+</details> -->
