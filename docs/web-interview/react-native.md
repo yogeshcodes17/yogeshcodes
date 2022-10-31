@@ -1,4 +1,4 @@
-<!-- ---
+---
 id: web-interview-react-native
 title: React Native
 ---
@@ -13,4 +13,4 @@ React native is an open-source JavaScript framework designed by Facebook for nat
 React Native saves your development time as it enables you to build real and native mobile apps within a single language – JavaScript for both Android and iOS platforms, such that code once, run that on any platform, and the React Native App is ready for use with native look and feel.
 
 </p>
-</details> -->
+</details>
