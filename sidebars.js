@@ -12,12 +12,13 @@ module.exports = {
       items: [
         "tech-notes/js-ts-monorepo",
         "tech-notes/design-system-storybook",
-        "tech-notes/tailwind-react-config",
+        "tech-notes/tailwind-Angular-config",
         "tech-notes/postgraphile",
         "tech-notes/problem-solving",
         "tech-notes/frontend-masters-full-stack-notes",
         "tech-notes/objected-oriented-design",
         "tech-notes/simple-promise-notes",
+        "tech-notes/AES-Angular-Springboot-config",
       ],
     },
     {
@@ -80,7 +81,7 @@ module.exports = {
         "web-interview/web-interview-typescript",
         "web-interview/web-interview-webpack",
         "web-interview/web-interview-web-security",
-        "web-interview/web-interview-react-native",
+        "web-interview/web-interview-springboot",
       ],
     },
     {

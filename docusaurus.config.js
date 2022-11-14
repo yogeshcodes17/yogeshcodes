@@ -79,11 +79,11 @@ module.exports = {
       },
       */
       items: [
-        {
-          to: "blog",
-          label: "Blog",
-          position: "right",
-        },
+        // {
+        //   to: "blog",
+        //   label: "Blog",
+        //   position: "right",
+        // },
         {
           href: "https://github.com/yogeshcodes17/",
           label: "GitHub",
@@ -91,7 +91,7 @@ module.exports = {
         },
         {
           href: "https://www.linkedin.com/in/yogeshcodes/",
-          label: "Linked In",
+          label: "LinkeIn",
           position: "right",
         },
       ],
